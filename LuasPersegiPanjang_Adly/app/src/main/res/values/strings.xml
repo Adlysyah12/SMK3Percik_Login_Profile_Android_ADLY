@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LuasPersegiPanjang_Adly</string>
+    <string name="LuasPersegiPanjang">Menghitung Luas Persegi Panjang</string>
+    <string name="label_hasil">Hasil: %1$s</string>
+    <string name="error_invalid_input">Input tidak valid</string>
+    <string name="error_empty_fields">Harap isi semua field</string>
+</resources>
