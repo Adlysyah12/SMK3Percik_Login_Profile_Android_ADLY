@@ -1,0 +1,4 @@
+Diagram tersebut menggambarkan alur proses login dan pembuatan akun pada sebuah aplikasi. Proses dimulai ketika pengguna membuka halaman awal aplikasi, kemudian diminta untuk memasukkan email dan password yang telah terdaftar. Setelah data dimasukkan, sistem akan melakukan validasi akun untuk memastikan bahwa email dan password yang digunakan sesuai dengan data yang tersimpan. Apabila akun berhasil divalidasi, pengguna akan diarahkan ke halaman profil utama dan proses login dinyatakan selesai.
+Namun, apabila pengguna belum memiliki akun, pengguna dapat memilih opsi buat akun untuk melakukan pendaftaran. Pada proses pembuatan akun, pengguna diminta memasukkan alamat email, membuat password, dan mengonfirmasi password yang telah dibuat. Setelah seluruh data diisi, sistem akan menyimpan email dan password tersebut sebagai informasi akun pengguna. Dengan demikian, pengguna telah memiliki akun yang dapat digunakan untuk login ke dalam aplikasi.
+
+
